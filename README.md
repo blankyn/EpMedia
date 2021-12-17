@@ -28,8 +28,8 @@ allprojects {
 ```
 * 添加gradle依赖:
 ```Java
-
-
+        implementation 'com.github.Blankyn:EpMedia:1.0.2'
+        implementation 'androidx.appcompat:appcompat:1.2.0'
 ```
 ## 单个视频处理:
 * 创建待处理视频:
