@@ -1,5 +1,6 @@
-[![](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://developer.android.google.cn) [![](https://img.shields.io/badge/FFmpeg-4.2.2-orange.svg)](https://ffmpeg.org/download.html#release_3.3) 
-[![](https://jitpack.io/v/yangjie10930/EpMedia.svg)](https://jitpack.io/#yangjie10930/EpMedia)
+[![](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://developer.android.google.cn)
+[![](https://img.shields.io/badge/FFmpeg-4.2.2-orange.svg)](https://ffmpeg.org/download.html#release_3.3)
+[![](https://jitpack.io/v/Blankyn/EpMedia.svg)](https://jitpack.io/#Blankyn/EpMedia)
 #### 中文 / [English](https://github.com/yangjie10930/EpMedia/blob/master/Readme-English.md)
 
 # EpMedia
