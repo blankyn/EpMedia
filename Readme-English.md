@@ -26,7 +26,8 @@ allprojects {
 ```
 * Add gradle dependency:
 ```Java
-compile 'com.github.yangjie10930:EpMedia:v1.0.1'
+implementation 'com.github.Blankyn:EpMedia:1.0.2'
+implementation 'androidx.appcompat:appcompat:1.2.0'
 ```
 ## Single video processing:
 * create pending video:
