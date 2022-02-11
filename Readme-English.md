@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://developer.android.google.cn) [![](https://img.shields.io/badge/FFmpeg-4.2.2-orange.svg)](https://ffmpeg.org/download.html#release_3.3) 
-[![](https://jitpack.io/v/yangjie10930/EpMedia.svg)](https://jitpack.io/#yangjie10930/EpMedia)
-#### English / [中文](https://github.com/yangjie10930/EpMedia/blob/master/README.md)
+[![](https://jitpack.io/v/Blankyn/EpMedia.svg)](https://jitpack.io/#Blankyn/EpMedia)
+#### English / [中文](https://github.com/Blankyn/EpMedia/blob/master/README.md)
 
 # EpMedia
 The video processing framework based on FFmpeg developed on Android is simple, easy to use, and small in size, helping users quickly realize video processing functions. Contains the following functions: editing, cropping, rotating, mirroring, merging, separating, variable speed, adding LOGO, adding filters, adding background music, accelerating and decelerating video, rewinding audio and video. 
