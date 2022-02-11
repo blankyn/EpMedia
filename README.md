@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://developer.android.google.cn)
 [![](https://img.shields.io/badge/FFmpeg-4.2.2-orange.svg)](https://ffmpeg.org/download.html#release_3.3)
 [![](https://jitpack.io/v/Blankyn/EpMedia.svg)](https://jitpack.io/#Blankyn/EpMedia)
-#### 中文 / [English](https://github.com/yangjie10930/EpMedia/blob/master/Readme-English.md)
+#### 中文 / [English](https://github.com/Blankyn/EpMedia/blob/master/Readme-English.md)
 
 # EpMedia
 基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。</br>
