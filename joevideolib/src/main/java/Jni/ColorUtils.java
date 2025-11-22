@@ -1,10 +1,18 @@
 package Jni;
 
-/**
- * Created by 杨杰 on 2017/4/19.
- * 颜色格式转换的类
- */
 
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 13:58
+ * <p>
+ * @description: 颜色格式转换的类
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class ColorUtils {
 
 	/**

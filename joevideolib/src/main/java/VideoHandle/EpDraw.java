@@ -1,10 +1,22 @@
 package VideoHandle;
 
 /**
- * 添加特效类
+ *
  * Created by YangJie on 2017/5/23.
  */
 
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:01
+ * <p>
+ * @description: 添加特效类
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class EpDraw {
 
 	private String picPath;//图片路径

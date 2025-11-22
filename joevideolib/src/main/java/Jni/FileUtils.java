@@ -6,10 +6,20 @@ import java.io.File;
 import java.io.RandomAccessFile;
 import java.util.List;
 
-/**
- * Created by 杨杰 on 2017/2/20.
- */
 
+
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 13:58
+ * <p>
+ * @description:
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class FileUtils {
 
 	/**

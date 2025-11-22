@@ -1,5 +1,18 @@
 package VideoHandle;
 
+
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:00
+ * <p>
+ * @description: 音频参数
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class AudioOptions {
 	private int sampleRates = 44100;//采样率
 	private float volume = 1.0f;

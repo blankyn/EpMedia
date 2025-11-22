@@ -2,11 +2,20 @@ package VideoHandle;
 
 import java.util.ArrayList;
 
-/**
- * Created by Yj on 2017/11/13.
- * 命令集合
- */
 
+
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:00
+ * <p>
+ * @description: 命令集合
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class CmdList extends ArrayList<String> {
 
 	public CmdList append(String s) {

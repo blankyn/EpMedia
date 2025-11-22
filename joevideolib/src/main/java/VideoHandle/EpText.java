@@ -1,9 +1,17 @@
 package VideoHandle;
 
 /**
- * Created by Administrator on 2017/11/8.
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:02
+ * <p>
+ * @description: 文本
+ * <p>
+ * @version:
+ * @revise:
+ *
  */
-
 public class EpText {
 
 	private String textFitler;

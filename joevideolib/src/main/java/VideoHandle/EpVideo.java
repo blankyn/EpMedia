@@ -2,11 +2,20 @@ package VideoHandle;
 
 import java.util.ArrayList;
 
-/**
- * 视频处理类
- * Created by YangJie on 2017/5/18.
- */
 
+
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:03
+ * <p>
+ * @description: 视频处理类
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class EpVideo {
 
 	private String videoPath;  //视频地址

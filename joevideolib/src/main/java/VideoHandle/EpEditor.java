@@ -14,11 +14,19 @@ import Jni.FileUtils;
 import Jni.TrackUtils;
 import Jni.VideoUitls;
 
-/**
- * 视频编辑器
- * Created by YangJie on 2017/5/18.
- */
 
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 14:01
+ * <p>
+ * @description: 视频编辑器
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class EpEditor {
 
 	private static final int DEFAULT_WIDTH = 480;//默认输出宽度

@@ -3,11 +3,20 @@ package Jni;
 import android.media.MediaExtractor;
 import android.media.MediaFormat;
 
-/**
- * Created by Yj on 2017/3/21.
- * 获取音频或视频的信息
- */
 
+
+/**
+ * Copyright (C), 1999-2023
+ * <p>
+ * @author qfmeng6@163.com
+ * @date 2025/11/22 13:59
+ * <p>
+ * @description: 获取音频或视频的信息
+ * <p>
+ * @version:
+ * @revise:
+ *
+ */
 public class VideoUitls {
 
 	private VideoUitls() {
